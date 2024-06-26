@@ -27,8 +27,8 @@ This repository contains a Linux Process Watchdog program written in C++. The pr
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/linux-process-watchdog.git
-    cd linux-process-watchdog
+    git clone https://github.com/AnannaKabir/Linux-Challenge.git
+    cd /Task 1/LinuxProcessWatchdog/
     ```
 
 2. **Install Dependencies**
