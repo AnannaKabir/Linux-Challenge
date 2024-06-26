@@ -1,0 +1,13 @@
+{
+    "processes": [
+      {
+        "name": "Process1",
+        "startup_parameters": "param1 param2"
+      },
+      {
+        "name": "Process2",
+        "startup_parameters": "param3 param4"
+      }
+    ]
+  }
+  
